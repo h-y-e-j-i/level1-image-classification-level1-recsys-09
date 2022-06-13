@@ -1,4 +1,4 @@
-# level1-image-classification-level1-recsys-09
+# 😷 마스크 착용 상태 분류
 
 ## ❗ 주제 설명
 
